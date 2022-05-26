@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.18.3
+FROM k8s.gcr.io/kube-apiserver:v1.24.0
 MAINTAINER qianhu1
